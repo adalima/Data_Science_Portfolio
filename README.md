@@ -5,9 +5,10 @@
 <p align="left">
 Here you will find my projects in Data Science.
   
-<b><h2>Projects:</b>
+<b><h2>Projects:</b></h2>
 
-*Jupyter notbooks projects*
+<b><h6>Jupyter notebooks projects list:</b></h6>
 
 * Working on it !!
+
 </p>
