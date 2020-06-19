@@ -17,4 +17,8 @@ Here you will find my projects in Data Science.
 * Graduated in business administration - UCDB.
 * Postgraduate degree in environmental management - FISP / UNICAMP.
 * Professor of academic graduate and postgraduate courses in strategic management, project management (PMBOK), network administration and management, entrepreneurship, environmental management and administrative processes.
+<hr></hr>
+
+<b><h2>Professional objectives:</b></h2>
+* Act with a focus on strategic data management for decision making, projects and processes, covering the various areas of knowledge and organizational environments.
 </p>
