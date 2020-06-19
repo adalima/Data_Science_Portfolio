@@ -7,7 +7,7 @@ Here you will find my projects in Data Science.
   
 <b><h2>Projects:</b></h2>
 
-<b><h6>Jupyter notebooks projects list:</b></h6>
+<b><h5>Jupyter notebooks projects list:</b></h5>
 
 * Working on it !!
 
