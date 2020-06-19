@@ -5,7 +5,7 @@
 <p align="left">
 Here you will find my projects in Data Science.
   
-**Projects:**
+<b><h2>Projects:</b>
 
 *Jupyter notbooks projects*
 
