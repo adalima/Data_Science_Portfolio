@@ -14,7 +14,7 @@ Here you will find my projects in Data Science.
 <hr></hr>
 
 <b><h2>About me:</b></h2>
-* Graduated in business administration - UCDB
-* Postgraduate degree in environmental management - FISP / UNICAMP
-* Professor of academic graduate and postgraduate courses
+* Graduated in business administration - UCDB.
+* Postgraduate degree in environmental management - FISP / UNICAMP.
+* Professor of academic graduate and postgraduate courses in strategic management, project management (PMBOK), network administration and management, entrepreneurship, environmental management and administrative processes.
 </p>
