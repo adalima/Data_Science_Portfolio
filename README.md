@@ -11,4 +11,10 @@ Here you will find my projects in Data Science.
 
 * Working on it !!
 
+<hr></hr>
+
+<b><h2>About me:</b></h2>
+* Graduated in business administration - UCDB
+* Postgraduate in Management and Environmental Practices - FISP / UNICAMP
+* Professor of academic graduate and postgraduate courses
 </p>
